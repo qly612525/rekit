@@ -1,0 +1,6 @@
+// index.scss is the entry for all styles.
+@import './reset.css';
+@import './global.scss';
+@import '../components/style.scss';
+@import '../containers/style.scss';
+@import '../features/home/style.scss';
